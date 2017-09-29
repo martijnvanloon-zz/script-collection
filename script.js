@@ -1,4 +1,4 @@
-// Patagonia assignment
+// Patagonia assignment, works on http://eu.patagonia.com/gb/en/home/
 // by Martijn van Loon
 
 // find the navbar
