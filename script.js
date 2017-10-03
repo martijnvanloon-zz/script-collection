@@ -1,4 +1,4 @@
-// Patagonia assignment, works on http://eu.patagonia.com/gb/en/home/
+// This script works on http://eu.patagonia.com/gb/en/home/ and the challenge was: add a responsive banner to a website from the console.
 // by Martijn van Loon
 
 // find the navbar
